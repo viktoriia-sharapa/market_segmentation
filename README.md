@@ -1,4 +1,4 @@
-# marketing_segmentation
+# Market Segmentation
 Market segmentation using clustering methods
 
 - Carried out exploratory data analysis on a marketing dataset about customer behavior(Pandas, NumPy).
